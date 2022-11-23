@@ -1,0 +1,18 @@
+{
+  "name": "revealjs-boilerplate",
+  "description": "reveal.js presentation boilerplate",
+  "version": "0.0.1",
+  "license": "MIT",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": {
+    "name": "Sonny Bhatia",
+    "email": "aadityabhatia@gmail.com"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-connect": "^5.7.0"
+  },
+  "browserslist": "> 2%, not dead"
+}
